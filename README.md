@@ -1,2 +1,1 @@
 # genius-test
-genius-test
